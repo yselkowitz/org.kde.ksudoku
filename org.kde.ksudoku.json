@@ -1,7 +1,7 @@
 {
     "id": "org.kde.ksudoku",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.11",
+    "runtime-version": "5.12",
     "sdk": "org.kde.Sdk",
     "command": "ksudoku",
     "rename-icon": "ksudoku",
@@ -23,8 +23,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/libkdegames-18.12.0.tar.xz",
-                    "sha256": "7b414075f135b93e1e332bbadf207f81c96c78d448b1f254d6015fc988052006"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
+                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
                 } 
             ]
         },
@@ -34,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/18.12.0/src/ksudoku-18.12.0.tar.xz",
-                    "sha256": "26befaaa4238927a0953660e6a1146e708f846ec5c7cdcfccb6d34c24ba7a4ae"
+                    "url": "https://download.kde.org/stable/applications/19.04.0/src/ksudoku-19.04.0.tar.xz",
+                    "sha256": "4f5cff274741326bff02108fef4996f289c56ff026fd6e2921e4a2bf492a14cb"
                 } 
             ]
         }
