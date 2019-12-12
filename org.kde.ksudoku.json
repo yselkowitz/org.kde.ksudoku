@@ -16,15 +16,15 @@
         "--talk-name=org.kde.JobViewServer"
     ],
     "modules": [
-        "shared-modules/glu/glu-9.0.0.json",
+        "shared-modules/glu/glu-9.json",
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.2/src/libkdegames-19.08.2.tar.xz",
-                    "sha256": "83456cec44502a1f79c0be00c983090e32fd8aea5fec1461fbfbd37b5f8866ac"
+                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/libkdegames-19.12.0.tar.xz",
+                    "sha256": "4498e462f248e44bbd7fe28e5c8a47d43cdd058e813c47e8fe228b8d2439ad1f"
                 } 
             ]
         },
@@ -34,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/applications/19.08.2/src/ksudoku-19.08.2.tar.xz",
-                    "sha256": "4630117e12c10c2f326a4e55dceed7f19d183b597eadc3d4308aecf5a5455156"
+                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/ksudoku-19.12.0.tar.xz",
+                    "sha256": "b3d4fe449e76763b9d04b3d15c960e67f55b5b0f9aae607abae52529e06a4182"
                 } 
             ]
         }
