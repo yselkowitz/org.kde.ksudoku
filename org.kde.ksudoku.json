@@ -23,8 +23,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/libkdegames-19.12.0.tar.xz",
-                    "sha256": "4498e462f248e44bbd7fe28e5c8a47d43cdd058e813c47e8fe228b8d2439ad1f"
+                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/libkdegames-19.12.1.tar.xz",
+                    "sha256": "317513544e08d03b2381bdb4c0bcd24c844dd8af7ccc4896569dd05933061d9c"
                 } 
             ]
         },
@@ -34,8 +34,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/19.12.0/src/ksudoku-19.12.0.tar.xz",
-                    "sha256": "b3d4fe449e76763b9d04b3d15c960e67f55b5b0f9aae607abae52529e06a4182"
+                    "url": "https://download.kde.org/stable/release-service/19.12.1/src/ksudoku-19.12.1.tar.xz",
+                    "sha256": "4dd72a5b0bb0c951508bbe2c60ce280efcd0414899e025a2ca4d92336576ec2a"
                 } 
             ]
         }
