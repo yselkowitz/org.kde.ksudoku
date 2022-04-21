@@ -6,8 +6,8 @@
     "command": "ksudoku",
     "rename-icon": "ksudoku",
     "finish-args": [
-        "--share=ipc", 
-        "--socket=x11", 
+        "--share=ipc",
+        "--socket=x11",
         "--socket=wayland",
         "--socket=pulseaudio",
         "--device=dri",
@@ -19,35 +19,35 @@
         {
             "name": "libkdegames",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/libkdegames-21.12.3.tar.xz",
-                    "sha256": "4b2f3fb2af0866f7aba1ae679b505faeb7577b0ab50bd619ecb642c48ae0b574",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/libkdegames-22.04.0.tar.xz",
+                    "sha256": "4dd8d80dbfd2806d420bb6efc2df64a175e8273d9ea34b9c61a0a7daae342e76",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/libkdegames-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "ksudoku",
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/release-service/21.12.3/src/ksudoku-21.12.3.tar.xz",
-                    "sha256": "9b4b3363048567e1ba2a47bc6306cffb6f298a1fc789a3d9453fbc0df9f280bf",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/release-service/22.04.0/src/ksudoku-22.04.0.tar.xz",
+                    "sha256": "f8b5c990f6a353900874ce115b1855823c0de7b6c90a48cea12a201bfa9f0b21",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/ksudoku-$version.tar.xz"
                     }
-                } 
+                }
             ]
         }
     ]
