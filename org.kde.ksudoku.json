@@ -22,8 +22,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/libkdegames-22.04.2.tar.xz",
-                    "sha256": "c33af6c13540add132122b36b2faabc1f0beaf2c06d29e575f7789f1c5342911",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/libkdegames-22.04.3.tar.xz",
+                    "sha256": "f6af5b98c6f5a4061b5124d04e5cf0c2cc9e21df93824559153d5565d541f845",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -39,8 +39,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.2/src/ksudoku-22.04.2.tar.xz",
-                    "sha256": "257437adc2aea72b7f639503d444c037a7c61a081bad9d18c07fd14a3f176778",
+                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/ksudoku-22.04.3.tar.xz",
+                    "sha256": "1c9afc75e6980651ab2c93f7ba0c8623792c9a9ca465c24137d81908137bcd84",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
